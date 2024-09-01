@@ -1,6 +1,7 @@
+  ![](https://komarev.com/ghpvc/?username=CreativeCrazyDesign&style=for-the-badge)
+  
 ➢ 👋 Hi, I’m Back-end developer
 
-  ![](https://komarev.com/ghpvc/?username=CreativeCrazyDesign&style=for-the-badge)
   
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CreativeCrazyDesign&show_icons=true&theme=transparent))](https://github.com/CreativeCrazyDesign/github-readme-stats)
   
