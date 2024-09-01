@@ -11,6 +11,8 @@
 
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=light&layout=socrates)
 
+![](https://komarev.com/ghpvc/?username=CreativeCrazyDesign&style=for-the-badge)
+
 <!---
 CreativeCrazyDesign/CreativeCrazyDesign is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
