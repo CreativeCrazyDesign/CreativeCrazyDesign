@@ -6,7 +6,7 @@
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CreativeCrazyDesign&hide_progress=true)](https://github.com/CreativeCrazyDesign/github-readme-stats)
   
-&#128280; 💞️ I’m looking to collaborate on interesting projects
+&#128280; 💞️ I’m looking for the interesting projects
 
 &#128280; 📫 How to reach me creativecrazydesign@gmail.com
 
